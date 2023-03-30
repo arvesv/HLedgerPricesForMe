@@ -1,12 +1,15 @@
 
 # End of 2023-01
 
-P 2022-01-31 "Elopak ASA"     23,90
+Y 2023
+
+P 01-31 "Elopak ASA"     23,90
 P 2023-01-31 "Arribatec Group ASA"  0,4700
 P 2023-01-31 "Bien Sparebank ASA" 91,02
 P 2023-01-31 "Komplett ASA"  13,68
-P 2023-01-31 "Storebrand"  86,44
-P 2023-01-31 "Telenor"  104,35
+P 2023-01-31 "Storebrand ASA"  86,44
+P 01-31 "Telenor ASA"  104,35
+P 01-31 "Orkla ASA"  74,42
 P 2023-01-31 "Romerike Sparebank"   122
 P 2022-12-31 "Microsoft"   247,81 "USD"
 P 2023-01-31 "USD"  9,981
@@ -29,8 +32,9 @@ P 2022-02-28 "Elopak ASA"     23,10
 P 2023-02-28 "Arribatec Group ASA"  0,3650
 P 2023-02-28 "Bien Sparebank ASA" 92,50
 P 2023-02-28 "Komplett ASA"  17,60
-P 2023-02-28 "Storebrand"  86
-P 2023-02-28 "Telenor"  116,55
+P 2023-02-28 "Storebrand ASA"  86
+P 02-28 "Telenor ASA "  116,55
+P 02-28 "Orkla ASA"  69,92
 P 2023-02-28 "Romerike Sparebank"   127
 P 2023-02-28 "Microsoft"   249,42 "USD"
 P 2023-02-28 "USD"  10,31
@@ -53,10 +57,11 @@ P 2022-03-31 "Elopak ASA"     23,10
 P 2023-03-31 "Arribatec Group ASA"  3,5
 P 2023-03-31 "Bien Sparebank ASA" 92,50
 P 2023-03-31 "Komplett ASA"  16,38
-P 2023-03-31 "Storebrand"  79,64
-P 2023-03-31 "Telenor"  119,20
+P 2023-03-31 "Storebrand ASA"  79,64
+P 2023-03-31 "Telenor ASA"  122,05
+P 03-31 "Orkla ASA"    73,56
 P 2023-03-31 "Romerike Sparebank"   126
-P 2023-03-31 "Entra"   106,70
+P 2023-03-31 "Entra ASA"   100
 P 2023-03-31 "Norsk Hydro"   75
 P 2023-03-31 "Microsoft"   249,42 "USD"
 P 2023-03-31 "USD"  10,31
