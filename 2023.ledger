@@ -21,6 +21,7 @@ P 2023-01-31 "DNB Teknologi A" 2 867,2200
 P 2023-01-31 "KLP AksjeVerden Indeks P"   4 742,43
 P 2023-01-31 "KLP AksjeAsia Indeks P"   1 736,09
 P 2023-01-31 "Aker Solutions Oblgasjon"   1002500
+P 2023-01-31 "Aker Horizons ASA"   14,365
 
 # End of 2023-02
 
@@ -43,6 +44,7 @@ P 2023-02-28 "Skagen Focus A"  196,5116
 P 2023-02-28 "DNB Teknologi A"  2 937,0500
 P 2023-02-28 "KLP AksjeVerden Indeks P"   4 772,95
 P 2023-02-28 "KLP AksjeAsia Indeks P"   1 708,85
+P 2023-02-28 "Aker Horizons ASA"   11,745
 P 2023-02-28 "Aker Solutions Oblgasjon"   1015000
 
 # End of 2023-03
@@ -60,12 +62,13 @@ P 2023-03-31 "Microsoft"   249,42 "USD"
 P 2023-03-31 "USD"  10,31
 P 2023-03-31 "EUR"  10,94
 P 2023-03-31 "Holberg Norden A" 721,12
-P 2023-03-31 "Skagen Kon-Tiki A"  1 018,1681
-P 2023-03-31 "Skagen Vekst A"  4 019,2543
-P 2023-03-31 "Skagen Global A"   2 906,8861
-P 2023-03-31 "Skagen m2 A"   235,0062
+P 2023-03-31 "Skagen Kon-Tiki A"  1 009,9747	
+P 2023-03-31 "Skagen Vekst A"  3 938,9993
+P 2023-03-31 "Skagen Global A"   2 953,2237
+P 2023-03-31 "Skagen m2 A"  226,3513
 P 2023-03-31 "Skagen Focus A"  199,8066
 P 2023-03-31 "DNB Teknologi A"  	3 005,3900
 P 2023-03-31 "KLP AksjeVerden Indeks P"   4 772,95
 P 2023-03-31 "KLP AksjeAsia Indeks P"   1 708,85
 P 2023-03-31 "Aker Solutions Oblgasjon"   1015000
+P 2023-03-31 "Aker Horizons ASA"   8,194
