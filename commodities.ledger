@@ -13,15 +13,20 @@ commodity "DNB Teknologi A"   1000,00
 commodity "Skagen Focus A"   1000,00
 commodity "KLP AksjeVerden Indeks P"  1000,00
 commodity "KLP AksjeAsia Indeks P"  1000,00
-
-commodity "Aker Horizons ASA"  1000,
-commodity "Romerike Sparebank"   1000,
-commodity "Microsoft" 1000,
-commodity "Telenor ASA" 1000,
-commodity "Storebrand ASA" 1000,
-commodity "Entra ASA" 1000,
-commodity "Aker Solutions Oblgasjon"   1000,
-commodity "Bien Sparebank ASA" 1000,
-commodity "Komplett ASA" 1000,
-commodity "Arribatec Group ASA" 1000,
 commodity "Holberg Norden A" 1000,00
+
+commodity   1000, "Aker Horizons ASA"
+commodity  1000, "Romerike Sparebank"
+commodity  1000, "Microsoft"
+commodity  1000, "Telenor ASA"
+commodity  1000, "Storebrand ASA"
+commodity  1000, "Entra ASA"
+commodity  1000, "Elopak ASA"
+commodity  1000, "Orkla ASA"
+commodity  1000, "Bien Sparebank ASA"
+commodity  1000, "Komplett ASA"
+commodity  1000, "Norsk Hydro ASA"
+commodity  1000, "Yara International ASA"
+
+commodity "Aker Solutions Oblgasjon"   1000,
+commodity "Arribatec Group ASA" 1000,

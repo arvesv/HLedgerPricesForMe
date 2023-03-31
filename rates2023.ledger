@@ -10,6 +10,8 @@ P 2023-01-31 "Komplett ASA"  13,68
 P 2023-01-31 "Storebrand ASA"  86,44
 P 01-31 "Telenor ASA"  104,35
 P 01-31 "Orkla ASA"  74,42
+P 01-31 "Norsk Hydro ASA"  80,34
+P 01-31 "Yara International ASA"  442
 P 2023-01-31 "Romerike Sparebank"   122
 P 2022-12-31 "Microsoft"   247,81 "USD"
 P 2023-01-31 "USD"  9,981
@@ -25,6 +27,7 @@ P 2023-01-31 "KLP AksjeVerden Indeks P"   4 742,43
 P 2023-01-31 "KLP AksjeAsia Indeks P"   1 736,09
 P 2023-01-31 "Aker Solutions Oblgasjon"   1002500
 P 2023-01-31 "Aker Horizons ASA"   14,365
+P 01-31  "Romerike Sparebank"  122
 
 # End of 2023-02
 
@@ -35,6 +38,8 @@ P 2023-02-28 "Komplett ASA"  17,60
 P 2023-02-28 "Storebrand ASA"  86
 P 02-28 "Telenor ASA "  116,55
 P 02-28 "Orkla ASA"  69,92
+P 02-28 "Norsk Hydro ASA"  75,66
+P 02-28 "Yara International ASA"  494,10
 P 2023-02-28 "Romerike Sparebank"   127
 P 2023-02-28 "Microsoft"   249,42 "USD"
 P 2023-02-28 "USD"  10,31
@@ -50,6 +55,7 @@ P 2023-02-28 "KLP AksjeVerden Indeks P"   4 772,95
 P 2023-02-28 "KLP AksjeAsia Indeks P"   1 708,85
 P 2023-02-28 "Aker Horizons ASA"   11,745
 P 2023-02-28 "Aker Solutions Oblgasjon"   1015000
+P 02-28  "Romerike Sparebank"  127
 
 # End of 2023-03
 
@@ -60,6 +66,7 @@ P 2023-03-31 "Komplett ASA"  16,38
 P 2023-03-31 "Storebrand ASA"  79,64
 P 2023-03-31 "Telenor ASA"  122,05
 P 03-31 "Orkla ASA"    73,56
+P 03-31 "Norsk Hydro ASA"  77,24
 P 2023-03-31 "Romerike Sparebank"   126
 P 2023-03-31 "Entra ASA"   100
 P 2023-03-31 "Norsk Hydro"   75
@@ -77,3 +84,5 @@ P 2023-03-31 "KLP AksjeVerden Indeks P"   4 772,95
 P 2023-03-31 "KLP AksjeAsia Indeks P"   1 708,85
 P 2023-03-31 "Aker Solutions Oblgasjon"   1015000
 P 2023-03-31 "Aker Horizons ASA"   8,194
+P 03-31  "Romerike Sparebank"  120
+P 03-31 "Yara International ASA"  452,30
