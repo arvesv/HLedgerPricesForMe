@@ -28,6 +28,8 @@ P 2023-01-31 "KLP AksjeAsia Indeks P"   1 736,09
 P 2023-01-31 "Aker Solutions Oblgasjon"   1002500
 P 2023-01-31 "Aker Horizons ASA"   14,365
 P 01-31  "Romerike Sparebank"  122
+P 01-31 "Sparebank 1 Østlandet"   116,80
+
 
 # End of 2023-02
 
@@ -56,6 +58,8 @@ P 2023-02-28 "KLP AksjeAsia Indeks P"   1 708,85
 P 2023-02-28 "Aker Horizons ASA"   11,745
 P 2023-02-28 "Aker Solutions Oblgasjon"   1015000
 P 02-28  "Romerike Sparebank"  127
+P 02-28 "Sparebank 1 Østlandet"   125,80
+
 
 # End of 2023-03
 
@@ -67,17 +71,16 @@ P 2023-03-31 "Storebrand ASA"  79,64
 P 2023-03-31 "Telenor ASA"  122,05
 P 03-31 "Orkla ASA"    73,56
 P 03-31 "Norsk Hydro ASA"  77,24
-P 2023-03-31 "Romerike Sparebank"   126
-P 2023-03-31 "Entra ASA"   100
-P 2023-03-31 "Norsk Hydro"   75
-P 2023-03-31 "Microsoft"   249,42 "USD"
-P 2023-03-31 "USD"  10,31
-P 2023-03-31 "EUR"  10,94
+P 03-31 "Entra ASA"   100
+P 03-31 "Norsk Hydro"   75
+P 03-31 "Microsoft"   249,42 "USD"
+P 03-31 "USD"  10,31
+P 03-31 "EUR"  10,94
 P 2023-03-31 "Holberg Norden A" 721,12
-P 2023-03-31 "Skagen Kon-Tiki A"  1 009,9747	
-P 2023-03-31 "Skagen Vekst A"  3 938,9993
-P 2023-03-31 "Skagen Global A"   2 953,2237
-P 2023-03-31 "Skagen m2 A"  226,3513
+P 2023-03-31 "Skagen Kon-Tiki A"  1 046,1494
+P 2023-03-31 "Skagen Vekst A"  4 063,9693
+P 2023-03-31 "Skagen Global A"   3 071,6923
+P 2023-03-31 "Skagen m2 A"   237,8257
 P 2023-03-31 "Skagen Focus A"  199,8066
 P 2023-03-31 "DNB Teknologi A"  	3 005,3900
 P 2023-03-31 "KLP AksjeVerden Indeks P"   4 772,95
@@ -86,3 +89,35 @@ P 2023-03-31 "Aker Solutions Oblgasjon"   1015000
 P 2023-03-31 "Aker Horizons ASA"   8,194
 P 03-31  "Romerike Sparebank"  120
 P 03-31 "Yara International ASA"  452,30
+P 03-31 "Sparebank 1 Østlandet"   113,80
+
+# End of 2023-04
+
+P 04-30 "Aker Horizons ASA"   9,070
+P 04-30 "Bien Sparebank ASA" 91,70
+P 04-30 "Elopak ASA"     22,30
+P 04-30 "Arribatec Group ASA"  3,5
+P 04-30 "Komplett ASA"  16,38
+P 04-30 "Storebrand ASA"  81,88
+P 04-30 "Telenor ASA"  122,65
+P 04-30 "Orkla ASA"    76,48
+P 04-30 "Norsk Hydro ASA"  75,80
+P 04-30 "Romerike Sparebank"   121
+P 04-30 "Sparebank 1 Østlandet"   115
+P 04-30 "Entra ASA"   99,80
+P 04-30 "Yara International ASA"  448
+P 04-30 "Microsoft"   249,42 "USD"
+P 04-30 "USD"  10,31
+P 04-30 "EUR"  10,94
+P 04-30 "Holberg Norden A" 721,12
+P 04-30 "Skagen Kon-Tiki A"  1 046,1494
+P 04-30 "Skagen Vekst A"  4 063,9693
+P 04-30 "Skagen Global A"   3 071,6923
+P 04-30 "Skagen m2 A"   237,8257
+P 04-30 "Skagen Focus A"  199,8066
+P 04-30 "DNB Teknologi A"  	3 005,3900
+P 04-30 "KLP AksjeVerden Indeks P"   4 772,95
+P 04-30 "KLP AksjeAsia Indeks P"   1 708,85
+P 04-30 "Aker Solutions Oblgasjon"   1015000
+
+
