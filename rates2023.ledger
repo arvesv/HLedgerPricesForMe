@@ -180,10 +180,10 @@ P 06-30 "Skagen Kon-Tiki A" 	1 109,3123
 P 06-30 "Skagen Vekst A"  4 176,9520
 P 06-30 "Skagen Global A"   3 289,1510
 P 06-30 "Skagen m2 A"   248,1902
-P 06-30 "Skagen Focus A"  205,4842
-P 06-30 "Skagen Select 100"  179,1613
+P 06-30 "Skagen Focus A"  	202,0851
+P 06-30 "Skagen Select 100"  175,9906
 
-P 06-30 "DNB Teknologi A"  3 529,10
+P 06-30 "DNB Teknologi A"  3 504,6900
 P 06-30 "KLP AksjeVerden Indeks P"   5 245,49
 P 06-30 "KLP AksjeAsia Indeks P"  1 812,77
 P 06-30 "Aker Solutions Oblgasjon"   1010000
@@ -208,11 +208,11 @@ P 07-31 "Microsoft"   335,90 "USD"
 P 07-31 "USD"  10,17
 P 07-31 "EUR"  11,21
 P 07-31 "Holberg Norden A" 731,73
-P 07-31 "Skagen Kon-Tiki A" 	1 105,5190
-P 07-31 "Skagen Vekst A"  4 127,7110
-P 07-31 "Skagen Global A"   3 210,2692
-P 07-31 "Skagen m2 A"   243,4988	
-P 07-31 "Skagen Focus A"  205,4842
+P 07-31 "Skagen Kon-Tiki A" 	1 105,5399
+P 07-31 "Skagen Vekst A"  4 115,3013
+P 07-31 "Skagen Global A"   3 189,34622
+P 07-31 "Skagen m2 A"   	242,9069	
+P 07-31 "Skagen Focus A"  	202,0851
 P 07-31 "Skagen Select 100"  176,2321
 
 P 07-31 "DNB Teknologi A"  3 529,10
