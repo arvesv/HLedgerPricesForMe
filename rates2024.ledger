@@ -159,37 +159,67 @@ P 05-31 "USD"  10,4945
 P 05-31 "Yara International ASA"  324,90
 P 05-31 "Holberg Likviditet"  104,24
 
-P 06-30 "Aker Horizons ASA"   2,816
-P 06-30 "Arribatec Group ASA"  4,42
-P 06-30 "Bien Sparebank ASA"  88,50
-P 06-30 "DNB Teknologi A"  	4 663,9500
-P 06-30 "Elopak ASA"     36,40
-P 06-30 "Entra ASA"   107,80
-P 06-30 "EUR"  11,4059
-P 06-30 "Holberg Norden A"  845,48
-P 06-30 "KLP AksjeAsia Indeks P"  2 036,59
-P 06-30 "KLP AksjeVerden Indeks P"  6 439,98
-P 06-30 "Komplett ASA"  8,50
-P 06-30 "Microsoft"   415,13 "USD"
-P 06-30 "Norsk Hydro ASA"  66,92
-P 06-30 "Orkla ASA"    86,60
-P 06-30 "Romerike Sparebank"   118,96
-P 06-30 "Skagen Avkastning"  143,51
-P 06-30 "Skagen Focus A"  		225,1408
-P 06-30 "Skagen Global A"  3 638,2351
-P 06-30 "Skagen Kon-Tiki A" 	1 200,1893
-P 06-30 "Skagen Likviditet"	  104,7660	
-P 06-30 "Skagen m2 A"  255,8059
-P 06-30 "Skagen Select 100"  	197,7920
-P 06-30 "Skagen Vekst A"  4 991,3533
-P 06-30 "Sparebank 1 Østlandet"   134,56
-P 06-30 "Sparebank Sør"   149,60
-P 06-30 "Storebrand ASA"  108,80
-P 06-30 "Storebrand Nordic High Yield"  1 098,82
-P 06-30 "Telenor ASA"  121,60
-P 06-30 "USD"  10,6643
-P 06-30 "Yara International ASA"  309,40
-P 06-30 "Holberg Likviditet"  104,60
+P 06-28 "Aker Horizons ASA"   2,81
+P 06-28 "Arribatec Group ASA"  4,42
+P 06-28 "Bien Sparebank ASA"  90
+P 06-28 "DNB Teknologi A"  	4 680,5900
+P 06-28 "Elopak ASA"     36,15
+P 06-28 "Entra ASA"   109,40
+P 06-28 "EUR"  11,4407
+P 06-28 "Holberg Norden A"  848,30
+P 06-28 "KLP AksjeAsia Indeks P"  2 033,92
+P 06-28 "KLP AksjeVerden Indeks P"  6 410,10
+P 06-28 "Komplett ASA"  8,50
+P 06-28 "Microsoft"   415,13 "USD"
+P 06-28 "Norsk Hydro ASA"  66,50
+P 06-28 "Orkla ASA"    86,75
+P 06-28 "Romerike Sparebank"   118,96
+P 06-28 "Skagen Avkastning"  143,51
+P 06-28 "Skagen Focus A"  		225,1408
+P 06-28 "Skagen Global A"  3 629,2596
+P 06-28 "Skagen Kon-Tiki A" 	1 202,2267
+P 06-28 "Skagen Likviditet"	  104,7660	
+P 06-28 "Skagen m2 A"  257,1603
+P 06-28 "Skagen Select 100"  	198,2887
+P 06-28 "Skagen Vekst A"  5 012,3303
+P 06-28 "Sparebank 1 Østlandet"   134,74
+P 06-28 "Sparebank Sør"   149,60
+P 06-28 "Storebrand ASA"  109
+P 06-28 "Storebrand Nordic High Yield"  1 098,82
+P 06-28 "Telenor ASA"  121,60
+P 06-28 "USD"  10,1452
+P 06-28 "Yara International ASA"  307,60
+P 06-28 "Holberg Likviditet"  104,7841
 
-
+P 07-31 "Aker Horizons ASA"   2,708
+P 07-31 "Arribatec Group ASA"  4,25
+P 07-31 "Bien Sparebank ASA"  91
+P 07-31 "DNB Teknologi A"  	4 746,58
+P 07-31 "Elopak ASA"     39
+P 07-31 "Entra ASA"   122,80
+P 07-31 "EUR"  11,7974
+P 07-31 "Holberg Norden A"  902,41
+P 07-31 "KLP AksjeAsia Indeks P"  2 121,40
+P 07-31 "KLP AksjeVerden Indeks P"  6 606,02
+P 07-31 "Komplett ASA"  10,50
+P 07-31 "Microsoft"   418,32 "USD"
+P 07-31 "Norsk Hydro ASA"  60,40
+P 07-31 "Orkla ASA"    92,10
+P 07-31 "Romerike Sparebank"   119,50
+P 07-31 "Skagen Avkastning"  143,51
+P 07-31 "Skagen Focus A"  		234,6283
+P 07-31 "Skagen Global A"  3 813,7658
+P 07-31 "Skagen Kon-Tiki A" 	1 211,2736
+P 07-31 "Skagen Likviditet"	  104,7660	
+P 07-31 "Skagen m2 A"  280,6567
+P 07-31 "Skagen Select 100"  	206,0519
+P 07-31 "Skagen Vekst A"  5 162,3073
+P 07-31 "Sparebank 1 Østlandet"   150,46
+P 07-31 "Sparebank Sør"   164,60
+P 07-31 "Storebrand ASA"  109,60
+P 07-31 "Storebrand Nordic High Yield"  1 098,82
+P 07-31 "Telenor ASA"  130
+P 07-31 "USD"  10,89,11
+P 07-31 "Yara International ASA"  311
+P 07-31 "Holberg Likviditet"  105,12
 
